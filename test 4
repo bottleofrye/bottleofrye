@@ -13,3 +13,5 @@ print("Name:", name, "Age:", age, sep=' | ')
 # Printing without a newline character at the end
 print("This is on the same line.", end=' ')
 print("This is on the same line too.")
+
+this thing = input("wait to see if this works")
