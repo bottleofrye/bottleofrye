@@ -1,0 +1,15 @@
+# Display a simple message
+print("Hello, World!")
+
+# Display the value of a variable
+x = 42
+print("The value of x is:", x)
+
+# Display multiple values with a custom separator
+name = "John"
+age = 30
+print("Name:", name, "Age:", age, sep=' | ')
+
+# Printing without a newline character at the end
+print("This is on the same line.", end=' ')
+print("This is on the same line too.")
